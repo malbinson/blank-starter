@@ -7,7 +7,7 @@ console.log(topUniversities)
 function htmlString(){
     
     let o = "";
-
+///
   for(let i = 0; i < topUniversities.length; i++) {
     o += "<tr>";
     o += "<td>";
